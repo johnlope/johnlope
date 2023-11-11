@@ -13,7 +13,7 @@
 ### Lenguajes de programación
 - C#
 - JavaScript
-- Dark
+- Dart
 
 ### Tecnologías
 - SQL Server
