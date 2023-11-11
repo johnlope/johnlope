@@ -13,10 +13,12 @@
 ### Lenguajes de programación
 - C#
 - JavaScript
+- Dark
 
 ### Tecnologías
 - SQL Server
 - Azure
+- Flutter
 
 ## Redes Sociales
 
